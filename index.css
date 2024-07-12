@@ -122,8 +122,8 @@
   }
 
   .footercontainer {
-    width: 7vw;
-    height: 5vh;
+    width: 200px;
+    height: auto;
   }
 
   .footertext {
