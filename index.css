@@ -113,14 +113,14 @@
   text-decoration: none;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 400px) {
   .boxcontainer {
-    width: 500px;
+    width: 300px;
     height: auto;
   }
 
   .footercontainer {
-    width: 400px;
-    height: auto;
+    width: 300px;
+    height: 50px;
   }
 }
