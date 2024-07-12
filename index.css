@@ -120,13 +120,13 @@
   }
 
   .footercontainer {
-    width: 550px;
+    width: 580px;
     height: 50px;
     margin-top: 800px;
   }
 
   .footertext {
     font-size: 8px;
-    margin-left: -100px;
+    margin-left: -400px;
   }
 }
