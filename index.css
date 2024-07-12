@@ -122,22 +122,16 @@
   }
 
   .footercontainer {
-    width: 100%;
-    /* Adjusted to take full width */
+    width: 700px;
     height: auto;
-    /* Adjusted to auto height */
-    margin-top: 20px;
-    /* Reduced margin-top for better positioning */
-    background-color: black;
-    /* Added background color here */
+    margin-top: 800px;
+    background-attachment: fixed;
   }
 
   .footertext {
     font-size: 17px;
+    margin-left: -450px;
     text-align: center;
-    color: white;
-    /* Ensure text color is defined */
-    padding-top: 10px;
-    /* Padding instead of margin for spacing */
+    margin-top: 10px;
   }
 }
