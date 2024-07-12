@@ -128,5 +128,6 @@
   .footertext {
     font-size: 15px;
     margin-left: -400px;
+    text-align: center;
   }
 }
