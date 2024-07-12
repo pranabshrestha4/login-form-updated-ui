@@ -116,11 +116,11 @@
 @media (max-width: 600px) {
   .boxcontainer {
     width: 50%;
-    height: 50%;
+    height: auto;
   }
 
   .footercontainer {
-    width: 300px;
+    width: 400px;
     height: 50px;
   }
 }
