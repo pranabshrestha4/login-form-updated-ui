@@ -115,7 +115,7 @@
 
 @media (max-width: 600px) {
   .boxcontainer {
-    width: 96%;
+    width: auto;
     height: auto;
     margin-left: 100px;
     margin-top: 100px;
