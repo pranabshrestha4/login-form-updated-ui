@@ -113,4 +113,14 @@
   text-decoration: none;
 }
 
-@media (max-width: 300px) {}
+@media (max-width: 500px) {
+  .boxcontainer {
+    width: 500px;
+    height: auto;
+  }
+
+  .footercontainer {
+    width: 400px;
+    height: auto;
+  }
+}
