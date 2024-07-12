@@ -121,13 +121,13 @@
 
   .footercontainer {
     width: 590px;
-    height: 50px;
+    height: 60px;
     margin-top: 1000px;
   }
 
   .footertext {
     font-size: 15px;
-    margin-left: -400px;
+    margin-left: -450px;
     text-align: center;
   }
 }
