@@ -124,4 +124,9 @@
     height: 50px;
     margin-top: 700px;
   }
+
+  .footertext {
+    padding-right: 100px;
+    text-align: center;
+  }
 }
