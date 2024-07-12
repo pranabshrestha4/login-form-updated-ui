@@ -112,3 +112,9 @@
 .passwordforgot:hover {
   text-decoration: none;
 }
+
+@media (max-width:768px; ) {
+  .boxcontainer {
+    width: 80%;
+  }
+}
