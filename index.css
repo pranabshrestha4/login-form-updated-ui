@@ -126,7 +126,6 @@
   }
 
   .footertext {
-    padding-right: 100px;
-    text-align: center;
+    margin: 15px 0px 0px 90px;
   }
 }
