@@ -124,8 +124,8 @@
   .footercontainer {
     width: 510px;
     height: auto;
-    margin-top: 900px;
-    background-attachment: fixed;
+    margin-top: 800px;
+    position: absolute;
   }
 
   .footertext {
