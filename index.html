@@ -5,10 +5,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
   </head>
 
   <body>
-    <h1>Login</h1>
+    <div class="boxcontainer">
+      <form action="">
+        <h2 class="userlogin">User Log in</h2>
+        <label for="username" class="username">User Name:</label> <br>
+        <input type="text" maxlength="7" class="usernametextbox" placeholder="Enter Your Username">
+        <label for="password" class="userpassword">Password:</label><br>
+        <input type="password" maxlength="7" class="userpasswordbox" placeholder="Enter Your password"><br>
+        <input type="checkbox" class="passwordcheckbox">
+        <div class="imp">
+          <p class="rememberme">Remember Me</p>
+          <a href="" class="passwordforgot">Forgot Your Password?</a>
+        </div>
+        <button type="button" class="btn btn-dark ctmbtn">Log in</button>
+        <p class="newuser1"><a href="#" class="newuser">Dont have an account ? <br> Click Here</a></p>
+      </form>
+    </div>
+
+    <footer>
+      <div class="footercontainer">
+        <p class="footertext">Copyright © 2024 All Rights Reserved Designed and Developed by <span>
+            <a href="https://www.linkedin.com/in/pranab-shrestha-69602216b/" class="footername">Pranab
+              Shrestha</a></span></p>
+      </div>
+    </footer>
+
   </body>
 
 </html>

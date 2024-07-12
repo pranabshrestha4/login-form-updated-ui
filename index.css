@@ -1,3 +1,114 @@
-h1 {
+.boxcontainer {
+  background-color: white;
+  width: 550px;
+  height: 500px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.userlogin {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding: 30px 0px 0px 180px;
+}
+
+.footercontainer {
+  background-color: black;
+  width: 1536px;
+  height: 40px;
+  margin-top: 697px;
+}
+
+.footertext {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5px 0px 0px 450px;
+  font-weight: bold;
+}
+
+.username {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 25px 0px 0px 50px;
+  font-size: 20px;
+}
+
+.usernametextbox {
+  border: 2px solid grey;
+  border-radius: 5px;
+  margin-left: 50px;
+  width: 450px;
+  height: 40px;
+  padding: 0px 0px 5px 10px;
+}
+
+.userpassword {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 0px 0px 50px;
+  font-size: 20px;
+}
+
+.userpasswordbox {
+  border: 2px solid grey;
+  border-radius: 5px;
+  margin-left: 50px;
+  width: 450px;
+  height: 40px;
+  padding: 0px 0px 5px 10px;
+}
+
+.passwordcheckbox {
+  border: 3px solid grey;
+  width: 20px;
+  height: 20px;
+  margin: 15px 0px 0px 50px;
+}
+
+.rememberme {
+  font-weight: bold;
+  margin: -27px 0px 0px 80px;
+  font-size: 16px;
+}
+
+.ctmbtn {
+  margin-left: 50px;
+  margin-top: 15px;
+  width: 450px;
+}
+
+.footername {
+  color: grey;
+}
+
+.footername:hover {
+  text-decoration: none;
+}
+
+.newuser {
   color: black;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.newuser:hover {
+  text-decoration: none;
+}
+
+.newuser1 {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.passwordforgot {
+  display: block;
+  margin-top: -25px;
+  margin-left: 330px;
+  font-weight: bold;
+  color: black;
+}
+
+.passwordforgot:hover {
+  text-decoration: none;
 }
