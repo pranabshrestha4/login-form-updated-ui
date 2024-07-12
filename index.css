@@ -125,5 +125,7 @@
     margin-top: 800px;
   }
 
-
+  .footertext {
+    font-size: 8px;
+  }
 }
