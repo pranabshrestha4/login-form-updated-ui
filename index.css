@@ -115,8 +115,9 @@
 
 @media (max-width: 600px) {
   .boxcontainer {
-    width: 90%;
+    width: 96%;
     height: auto;
+    margin-left: 100px;
   }
 
   .footercontainer {
